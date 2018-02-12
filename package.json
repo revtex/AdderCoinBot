@@ -1,0 +1,24 @@
+{
+    "name": "AdderCoinBot",
+    "version": "1.0.0",
+    "description": "AdderCoin bot for discord",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: No test specified\" && exit 1"
+    },
+    "author": "revtex",
+    "license": "MIT",
+    "repository": "github:revtex/AdderCoinBot",
+    "dependencies": {
+        "bufferutil": "^3.0.3",
+        "discord.js": "^11.3.0",
+        "erlpack": "github:discordapp/erlpack",
+        "http_request": "^0.1.2",
+        "libsodium-wrappers": "^0.5.4",
+        "node-opus": "^0.2.7",
+        "opusscript": "0.0.6",
+        "request": "^2.83.0",
+        "sodium": "^2.0.3",
+        "uws": "^9.14.0"
+    }
+}
